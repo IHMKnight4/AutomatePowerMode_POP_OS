@@ -8,7 +8,7 @@ if [ "$choice" = "y" ]; then
 
 systemctl stop acpimode.service
 rm /etc/systemd/system/acpimode.service
-rm -rf /var/run/acpi/
+rm -rf /opt/acpi/
 systemctl daemon-reload
 zenity --info --text="Service uninstalled successfully and Disabled from System Startup"
 exit

@@ -1,0 +1,1 @@
+# AcAdaptor2PowerMode

@@ -4,7 +4,7 @@ Disclaimer : I am not responsible for system failure, strained relationships, th
 
 # Now the Usability part 
 
-This script has been tested to work correctly on my system running POP!OS 20.04 or later. It will enable Automatic Changing of System Power Profile to Performance Mode when AC_Adaptor is connected and Battery Mode when disconnected. I cannot confirm whether it will work for other Operating Systems.
+This script has been tested to work correctly on my system running POP!_OS 20.04 and 20.10. It will enable Automatic Changing of System Power Profile to Performance Mode when AC_Adaptor is connected and Battery Mode when disconnected. I cannot confirm whether it will work for other Operating Systems.
 
 # This package includes 6 files. 
 - 1.) acpi.sh ( Script to AUTOMATE Changing of System Power Profile )

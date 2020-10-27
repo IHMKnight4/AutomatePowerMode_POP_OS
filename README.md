@@ -33,7 +33,7 @@ This script has been tested to work correctly on my system running POP!_OS 20.04
 - Type y to continue or n  to exit 
 - Click ok when done 
 
-- Finally to check the service status , run in terminal 
+- ### ** Finally to check the service status , run in terminal 
 - systemctl status acpimode.service
 
 - ## Thank you. Feel free to share. 

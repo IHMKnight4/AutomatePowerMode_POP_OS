@@ -8,9 +8,11 @@ This script has been tested on my system running POP!OS 20.04 or later. It will 
 
 # This package includes 3 files. 
 - 1.) acpi.sh ( Script to AUTOMATE Changing of System Power Profile )
-- 1.) acpimode.service ( Service will be installed and enable at startup by default )
-- 2.) system_power_profile_mode_install.sh ( For installing the service )
-- 3.) system_power_profile_mode_uninstall.sh ( For uninstalling the service ) 
+- 2.) acpimode.service ( Service will be installed and enable at startup by default )
+- 3.) system_power_profile_mode_install.sh ( For installing the service )
+- 4.) system_power_profile_mode_uninstall.sh ( For uninstalling the service ) 
+- 5.) Service Status.png ( Screenshot of the service status )
+- 6.) Readme.md 
 
 
 # Steps :
@@ -28,5 +30,8 @@ This script has been tested on my system running POP!OS 20.04 or later. It will 
 - sudo sh ./system_power_profile_mode_uninstall.sh ( enter sudo password )
 - Type y to continue or n  to exit 
 - Click ok when done 
+
+- Finally to check the service status , run in terminal 
+- systemctl status acpimode.service
 
 - ## Thank you. Feel free to share. 

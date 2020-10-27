@@ -5,9 +5,9 @@ echo "Type y to continue"
 read choice
 
 if [ "$choice" = "y" ]; then
-mkdir /var/run/acpi/
-cp acpi.sh /var/run/acpi/
-chmod +x /var/run/acpi/acpi.sh
+mkdir /opt/acpi/
+cp acpi.sh /opt/acpi/
+chmod +x /opt/acpi/acpi.sh
 cp acpimode.service /etc/systemd/system/
 systemctl daemon-reload
 systemctl start acpimode.service

@@ -1,6 +1,8 @@
 # AUTOMATE Changing of System Power Profile for POP!_OS 20.04 and 20.10 
 
-Disclaimer : I am not responsible for system failure, strained relationships, thermonuclear war, or you getting fired because some random app failed. Please read this script before installing it. YOU are choosing to install this script to AUTOMATE Changing of System Power Profile for POP!_OS , and if you point the finger at me for messing up your device, I will laugh at you.
+Disclaimer : I am not responsible for system failure, strained relationships, thermonuclear war, or you getting fired because some random app failed. Please read this script before installing it. YOU are choosing to install this script to AUTOMATE Changing of System Power Profile for POP!_OS.
+
+# IT works 
 
 # Now the Usability part 
 

@@ -3,8 +3,8 @@ Description=ACPI Mode Detection Service
 
 [Service]
 User=root
-WorkingDirectory=/var/run/acpi/
-ExecStart=/bin/bash /var/run/acpi/acpi.sh
+WorkingDirectory=/opt/acpi/
+ExecStart=/bin/bash /opt/acpi/acpi.sh
 Restart=always
 RestartSec=2
 

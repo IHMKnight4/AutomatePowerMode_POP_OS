@@ -2,7 +2,7 @@
 
 Disclaimer : I am not responsible for system failure, strained relationships, thermonuclear war, or you getting fired because some random app failed. Please read this script before installing it. YOU are choosing to install this script to AUTOMATE Changing of System Power Profile for POP!_OS.
 
-# IT works 
+### IT works 
 
 # Now the Usability part 
 

@@ -19,14 +19,14 @@ This script has been tested to work correctly on my system running POP!_OS 20.04
 
 # Steps :
 
-- 1.) To install this package run the below command in the terminal :
+## - 1.) To install this package run the below command in the terminal :
 
 - cd /Path/to/the/script 
 - sudo sh ./system_power_profile_mode_install.sh ( enter sudo password )
 - Type y to continue or n  to exit 
 - Click ok when done 
 
-- 2.) To uninstall this package run the below command in the terminal : 
+## - 2.) To uninstall this package run the below command in the terminal : 
 
 - cd /Path/to/the/script 
 - sudo sh ./system_power_profile_mode_uninstall.sh ( enter sudo password )
